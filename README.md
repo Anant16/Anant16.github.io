@@ -1,2 +1,2 @@
-# Anant16.github.io
-Project Website
+# ASC_Website
+The Website for Adventure Sports Club IIT Kanpur
