@@ -88,10 +88,12 @@ header a{color:#FFFFFF;}
 .content-center-wide{width: 90%; margin: auto;}
 .border{border: 3px solid green;}
 .box-shadow{box-shadow: 2px 2px 5px 5px #ccc;}
+.alink{color: #a90000; text-decoration: underline;}
+.alink:hover{cursor: pointer;}
 
 .imgl, .imgr{display:inline-block; float:none; margin:1em; border:1px solid;}
 .imgr{float:right; margin-right: 0em;} 
-.imgl{float:left; margin-left: 0em;}
+.imgl{float:left; margin-left: 0em; }
 
 .small-image{max-width: 15em;}
 
@@ -284,3 +286,5 @@ div.profile-image img {
 
 
 /*Template Code End*/
+
+.MoreRead{display: none;}
